@@ -1,4 +1,4 @@
-# fizikon
+# fizikon_test
 
 > Nuxt.js project
 
